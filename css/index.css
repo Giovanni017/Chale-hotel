@@ -111,7 +111,7 @@ a.reserva {
 }
 
 .depoimento {
+    float: right;
     height: 164px;
     width: 226px;
-    float: right;
 }
